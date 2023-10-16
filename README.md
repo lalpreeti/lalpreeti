@@ -1,3 +1,4 @@
+![logo](https://github.com/lalpreeti/lalpreeti/blob/main/Copy%20of%20Blue%20Futuristic%20Technology%20LinkedIn%20Banner%20.png)
 <h1 align="center">Hi 👋, I'm Preeti Ajay Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
